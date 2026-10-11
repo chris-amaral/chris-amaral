@@ -68,7 +68,7 @@ Atuação consolidada em **DevSecOps e Security Engineering** em ambientes regul
 | Período | Cargo | Setor | Destaques |
 | :---: | :--- | :--- | :--- |
 | `2025 — 2026` | **DevOps Engineer SR** | 🏦 Banco Tier 1 — LATAM | GitHub Actions avançado · Módulos Terraform reutilizáveis (AWS EC2/ECS/SSM) · Automações em Python · Stack multilinguagem |
-| `2025 — atual` | **Platform Engineer · DevOps & SRE** | 🚀 Startups em estágio *seed* — moda/e-commerce e IA | Implantação de **cultura DevOps e práticas de SRE do zero** · CI/CD, IaC e observabilidade · **uso diário de Claude Code** (agentes para DevOps/SRE) e GitHub Copilot |
+| `2025 — 2026` | **Platform Engineer · DevOps & SRE** | 🚀 Startups em estágio *seed* — moda/e-commerce e IA | Implantação de **cultura DevOps e práticas de SRE do zero** · CI/CD, IaC e observabilidade · **uso diário de Claude Code** (agentes para DevOps/SRE) e GitHub Copilot |
 | `2024 — 2025` | **DevOps / SRE** | 🏢 Empresa de Tecnologia | Observabilidade centralizada · Reestruturação CI/CD homolog→prod **(+30% eficiência)** · Automação SQL Server **(+20% confiabilidade)** |
 | `2019 — 2023` | **PSE / SRE / Cloud Engineer SR** | 🍔 Fintech de Delivery | Rate Limiting & WAF **(-40% custos)** · Self-Healing **(-20% trabalho manual)** · Multi-cloud (Kubernetes, ArgoCD, Rancher, Terraform) em **milhares de microsserviços** |
 | `2017 — 2019` | **Developer L3** | 📺 Streaming · Telecom · 🛍️ Varejo | Performance de aplicações corporativas · Documentação técnica e Knowledge Transfer |
@@ -131,7 +131,7 @@ Solid track record in **DevSecOps and Security Engineering** in regulated enviro
 | Period | Role | Sector | Highlights |
 | :---: | :--- | :--- | :--- |
 | `2025 — 2026` | **Sr DevOps Engineer** | 🏦 Tier 1 Bank — LATAM | Advanced GitHub Actions · Reusable Terraform modules (AWS EC2/ECS/SSM) · Python automation · Multi-language stack |
-| `2025 — present` | **Platform Engineer · DevOps & SRE** | 🚀 Seed-stage startups — fashion/e-commerce and AI | Bootstrapped **DevOps culture and SRE practices from scratch** · CI/CD, IaC and observability · **Claude Code daily** (agents for DevOps/SRE) and GitHub Copilot |
+| `2025 — 2026` | **Platform Engineer · DevOps & SRE** | 🚀 Seed-stage startups — fashion/e-commerce and AI | Bootstrapped **DevOps culture and SRE practices from scratch** · CI/CD, IaC and observability · **Claude Code daily** (agents for DevOps/SRE) and GitHub Copilot |
 | `2024 — 2025` | **DevOps / SRE** | 🏢 Technology Company | Centralized observability · CI/CD redesign staging→prod **(+30% efficiency)** · SQL Server automation **(+20% reliability)** |
 | `2019 — 2023` | **PSE / SRE / Sr Cloud Engineer** | 🍔 Delivery Fintech | Rate Limiting & WAF **(-40% costs)** · Self-Healing **(-20% manual work)** · Multi-cloud (Kubernetes, ArgoCD, Rancher, Terraform) across **thousands of microservices** |
 | `2017 — 2019` | **L3 Developer** | 📺 Streaming · Telecom · 🛍️ Retail | Enterprise application performance · Technical documentation and Knowledge Transfer |
